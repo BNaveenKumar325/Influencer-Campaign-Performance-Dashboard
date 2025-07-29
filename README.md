@@ -33,7 +33,7 @@ This dashboard enables data-driven insights into influencer campaigns by offerin
 
 git clone https://github.com/BNaveenKumar325/Influencer-Campaign-Performance-Dashboard.git
 cd influencer-dashboard
-2. Create and Activate a Virtual Environment (Optional but Recommended)
+### 2. Create and Activate a Virtual Environment (Optional but Recommended)
 # Windows
 python -m venv env
 env\Scripts\activate
@@ -42,11 +42,11 @@ env\Scripts\activate
 python3 -m venv env
 source env/bin/activate
 
-3. Install Dependencies
+### 3. Install Dependencies
 
 "pip install -r requirements.txt"
 
-4. Run the Application
+### 4. Run the Application
 
 "streamlit run app.py"
 
