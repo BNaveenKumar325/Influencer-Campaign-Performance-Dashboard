@@ -32,6 +32,7 @@ This dashboard enables data-driven insights into influencer campaigns by offerin
 ### 1. Clone the Repository
 
 git clone https://github.com/BNaveenKumar325/Influencer-Campaign-Performance-Dashboard.git
+
 cd influencer-dashboard
 ### 2. Create and Activate a Virtual Environment (Optional but Recommended)
 # Windows
